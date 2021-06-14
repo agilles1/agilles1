@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there, my name is Adam! 👋
+
+### I'm a Full-Stack Developer and recent grad of Flatiron School.
+
+- 😄 Pronouns: he/him
+- 🌱 I’m currently working on mastering React
+- 📫 How to reach me: adam.g.tpt@gmail.com
+
 
 <!--
 **agilles1/agilles1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
