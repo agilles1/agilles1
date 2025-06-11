@@ -1,9 +1,3 @@
-# Hi there, my name is Adam! 👋
-
-### I'm a Full-Stack Developer.
-- 😄 Pronouns: he/him
-
-
 <a href= 'https://www.linkedin.com/in/adam-b-gillespie/' rel="nofollow"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/therealgilsepie/?hl=en" rel="nofollow"><img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:adam.g.tpt@gmail.com" rel="nofollow"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
